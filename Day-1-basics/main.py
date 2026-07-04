@@ -1,0 +1,5 @@
+print("hello world")
+print(2+3)
+print("i love my pakistan")
+print("i am from lahore")
+print("@")
